@@ -3,6 +3,6 @@
 
 - Configurer le script depuis un fichier config super facilement !
 
-- Script Location Bateaux en RageUI ! 🛶
+- Script Blanchisseur auto en RageUI 💸
 
 - Discord : https://discord.gg/BD4BGzb
